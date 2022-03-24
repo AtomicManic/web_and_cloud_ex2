@@ -332,6 +332,10 @@ border-radius: 20px;
 border-radius: 20px;
 }
 
+.articles article a{
+    color: #4089ED;
+}
+
 .articles img{
     border-radius: 20px 20px 0px 0px;
 }
